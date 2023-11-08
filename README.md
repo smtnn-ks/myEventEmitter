@@ -43,3 +43,12 @@ myEventEmitter.emit("hi", "Ivan", "Ivanov");
 //    Hello, Ivan
 //    Hello there, Ivan Ivanov
 ```
+
+## Запуск проекта
+
+Для исполнения TypeScript файла использовался пакет [ts-node](https://www.npmjs.com/package/ts-node). Установите его и запустите проект.
+
+```console
+$ npm install
+$ npm start
+```
